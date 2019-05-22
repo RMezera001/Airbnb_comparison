@@ -1,3 +1,6 @@
+# Work In Progress
+This project is not complete and is a work in progress.
+
 # Airbnb_comparison
 Compare Airbnb data for multiple cities.
 
